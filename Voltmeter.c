@@ -1,6 +1,4 @@
 //VOLTMETRE KODU
-//1. kodda yaptığımız voltu lcd ekranda gösterdik
-
 //LCD bağlantıları  tanımlanıyor
 
 sbit LCD_RS at GPIOE_ODR.B8;
